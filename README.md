@@ -31,4 +31,4 @@ Tecnologias usadas:
 
 Se tiver alguma dúvida, pode abrir uma issue aqui no GitHub ou me mandar um email.
 
-https://olimpiadas-tan.vercel.app/
+https://olimpiadas-gfxa.vercel.app
