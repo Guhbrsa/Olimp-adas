@@ -24,7 +24,7 @@ Tecnologias usadas:
 
 **1. Dados: Os dados dos atletas estão no arquivo dados.js. Você pode adicionar mais dados aí se quiser.**
 
-**2. esign: O design da página está no arquivo style.css. Se você quiser mudar as cores ou a fonte, é só editar esse arquivo.**
+**2. Design: O design da página está no arquivo style.css. Se você quiser mudar as cores ou a fonte, é só editar esse arquivo.**
 
 **3. Funcionalidades: A lógica da pesquisa está no arquivo app.js. Se você quiser adicionar mais funcionalidades, é só editar esse arquivo.**
 **Dúvidas?**
